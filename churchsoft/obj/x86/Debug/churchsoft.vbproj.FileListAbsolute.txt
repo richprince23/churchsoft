@@ -1,0 +1,57 @@
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Telerik.WinControls.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Telerik.WinControls.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\Interop.SSCE.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.vbproj.ResolveComReference.cache
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.MAIN.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.RadForm1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.RadForm2.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.RadForm3.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.RadForm4.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.ShapedForm1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.SplashScreen1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.Tithes.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.Resources.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.vbproj.GenerateResource.Cache
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.vbprojResolveAssemblyReference.cache
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\churchsoft.AboutBox1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.exe.config
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.exe
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.pdb
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.exe.licenses
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.exe
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.pdb
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.exe.config
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.exe
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.pdb
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.exe
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.pdb
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Telerik.WinControls.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\TelerikCommon.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Telerik.WinControls.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.vbprojResolveAssemblyReference.cache
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.AboutBox1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.MAIN.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.RadForm1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.RadForm2.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.RadForm3.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.RadForm4.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.ShapedForm1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.SplashScreen1.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.Tithes.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.Resources.resources
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\churchsoft.vbproj.GenerateResource.Cache
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.exe.licenses
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\KWEKU\Documents\Visual Studio 2015\Projects\churchsoft - Copy - Copy\churchsoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\churchsoft - Copy - Copy\churchsoft\bin\Debug\Twifo Hemang Methodist ChurchSoft.exe.config
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.exe
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.xml
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\churchsoft - Copy - Copy\churchsoft\obj\x86\Debug\Twifo Hemang Methodist ChurchSoft.pdb
